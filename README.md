@@ -16,6 +16,8 @@ A lua/Neovim port of [Iceberg.vim](https://github.com/cocopon/iceberg.vim)
     require("iced-lightning").load()
   end,
 }
+```
+
 ## Color Palette
 
 ### Dark Variant (Default)
